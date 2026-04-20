@@ -1,0 +1,11 @@
+El uso responsable de la informacion en internet es la base
+etica que garantiza que la participacion ciudadana sea 
+efectiva y constructiva, evitando la propagacion de noticias 
+falsas que debilitan el tejido social. Al integrar herramientas
+tecnicas como Git, esta responsabilidad se traduce en un flujo
+de trabajo organizado y transparente donde cada aporte  queda 
+registrado y puede ser verificado por la comunidad.Git no solo 
+facilita la colaboracion tecnica, si no que fomenta una cultura
+de responsabilidad colectiva, donde cada cambio queda registrado
+evitando la desinformacion y perimitiendo que la comunidad 
+colabore de forma estructurada.
