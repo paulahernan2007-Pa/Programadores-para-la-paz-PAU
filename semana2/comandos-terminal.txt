@@ -1,0 +1,8 @@
+Git init
+Cd
+Mkdir
+Touch
+Nano
+Git add .
+Git commit -m
+Git push
