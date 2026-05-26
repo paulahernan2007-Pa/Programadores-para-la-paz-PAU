@@ -1,0 +1,2 @@
+Esa ruta lo q hace es generar un mensaje de confirmación de recepción de reportes generados
+También podría servir en una app comunitaria porque ayudaría a que las personas compartan información importante de manera rápida y organizada. Por ejemplo, se podrían publicar alertas, avisos de seguridad, actividades del barrio o reportes de problemas en la comunidad. Además, facilitaría la comunicación entre vecinos y permitiría que todos tengan acceso a información clara y actualizada.
