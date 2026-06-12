@@ -1,0 +1,9 @@
+¿Qué información muestra cada comando?
+uname -a: muestra información del sistema operativo y del kernel de Linux.
+hostname: muestra el nombre del equipo o servidor.
+whoami: indica el usuario que tiene la sesión iniciada.
+pwd: muestra la ruta del directorio actual.
+df -h: presenta el espacio disponible y utilizado en los discos del sistema.
+free -h: muestra el uso y la disponibilidad de la memoria RAM.
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+Es útil porque permite supervisar el estado del servidor, identificar problemas de rendimiento, verificar el uso de recursos como memoria y almacenamiento, y tomar decisiones adecuadas para garantizar la estabilidad, seguridad y correcto funcionamiento de los servicios alojados en él.
