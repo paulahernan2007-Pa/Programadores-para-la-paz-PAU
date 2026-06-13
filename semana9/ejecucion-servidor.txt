@@ -1,0 +1,13 @@
+Al ejecutar el comando "node server.js", el servidor inicia correctamente y queda a la espera de solicitudes desde el navegador o herramientas como Postman.
+
+En la terminal aparece un mensaje indicando que el servidor está funcionando, por ejemplo:
+"Servidor ejecutándose en el puerto 3000".
+
+Al visitar la ruta "/estado" desde el navegador, el servidor responde con información en formato JSON que confirma que la API está activa.
+
+Respuesta obtenida en "/estado":
+
+{
+"estado": "Servidor funcionando",
+"servicio": "API comunitaria"
+}
