@@ -1,0 +1,7 @@
+Al consultar la ruta GET /reportes, el servidor devuelve la lista de reportes que han sido registrados previamente mediante la ruta POST /reportes. La respuesta se presenta en formato JSON y permite verificar que los datos fueron almacenados correctamente. En este caso, se muestra un reporte con identificador 1, correspondiente a una incidencia de tipo "Infraestructura" cuya descripción indica un daño en el alumbrado público. Esta prueba confirma que la API puede recibir información y posteriormente consultarla de forma organizada.[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
