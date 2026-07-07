@@ -1,0 +1,11 @@
+backlog-semana10.txt
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso. (Prioridad alta)
+
+2. Como coordinador quiero recibir una alerta en Telegram cuando se registre un nuevo reporte para darle seguimiento oportuno. (Prioridad alta)
+
+3. Como miembro del equipo quiero consultar los reportes registrados para verificar su estado y hacer seguimiento. (Prioridad media)
+
+4. Como administrador quiero actualizar el estado de una incidencia para informar el avance de su solución. (Prioridad media)
+
+5. Como ciudadano quiero recibir una notificación cuando mi reporte sea atendido para conocer el resultado. (Prioridad baja)
