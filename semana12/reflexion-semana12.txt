@@ -1,0 +1,7 @@
+preguntas-semana12.txt
+1. b
+2. b
+3. a
+4. a
+reflexion
+Durante este curso aprendí que la tecnología puede fortalecer la participación ciudadana y la organización comunitaria. Comprendí la importancia de crear herramientas sencillas para que las personas puedan participar fácilmente. También aprendí a proteger los datos personales y a utilizar bases de datos de forma responsable. Entendí cómo automatizaciones con n8n o Telegram ayudan a informar a la comunidad de manera rápida. Aprendí a organizar proyectos usando metodologías ágiles y Git. Además, conocí la importancia de la autenticación y la seguridad en las plataformas. El desarrollo de sistemas como "Petición en 3 Clics" demuestra que la tecnología puede apoyar causas sociales. Todo lo aprendido será útil para crear soluciones que beneficien a las comunidades y promuevan una participación ciudadana más organizada y segura.

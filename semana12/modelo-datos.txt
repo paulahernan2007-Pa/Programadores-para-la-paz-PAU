@@ -1,0 +1,14 @@
+Entidad: Causa
+id
+titulo
+descripcion
+fecha
+¿Para qué sirve?
+Guarda la información de cada causa creada por la comunidad.
+Entidad: Apoyo
+id
+causa_id
+nombre
+fecha
+Para qué sirve?
+Registra cada apoyo que recibe una causa y lo relaciona con la causa correspondiente mediante causa_id.
